@@ -1,15 +1,24 @@
 div {   
     
-	border: 1.5px solid red;
+	
 	padding:20px 10px;
-	background-color: lightpink;
 	display: block;
     height: 150px; 
     width: 200px;
-    margin-left: 20%;
-    margin-top:10%;
+    margin-left: 42%;
+    
 
 }
 .re{
 	display: block;
+}
+a{
+	display: block;
+	font-size: 30px;
+}
+p{
+	margin-left: 40%;
+    margin-top:10%;
+
+	font-size: 70px;
 }
