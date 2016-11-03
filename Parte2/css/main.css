@@ -1,0 +1,15 @@
+div{
+	width:190px;
+	max-height:250px;
+	border:2.5px solid #FA8258;
+	padding:5px;
+	margin-bottom: 10px;
+    font-size: 16px;
+}
+
+div.tres{
+	height:120px;
+	border-bottom: hidden;
+	overflow: hidden;
+}
+
